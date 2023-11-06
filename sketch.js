@@ -1,6 +1,7 @@
-// Creation & Computation 2023: Puzzle Paws
+// Creation & Computation 2023: Puzzle Paws Where is Tiger?
+// Experiment 2, Multiscreen. Game 1.
 // Group D: Aishwarya Bhattbhatt, Aranya Khurana, Jessica Patel, Yu-Shien Yang
-//Reference:
+// This code was written as part of a group experience for 12 or more mobile phones to look for a lost dog named Tiger. In the first game, there's a dynamic puzzle where pieces change based on screen touches. By collaborating, players can complete the puzzle and unlock clues for the second stage. 
 //Help was also taken from ChatGPT to debug problems. Especially with Safari and the image dimension issues.
 
 //Variable declarations
